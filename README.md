@@ -37,9 +37,15 @@ This Chrome extension enhances your Gmail experience by automatically generating
 ## Example Usage
 
 1. Open Gmail and click to compose a new email.
-2. The extension will automatically detect the compose window and show the **AI Reply** button and the tone selection dropdown.
-3. Choose a tone (Professional or Friendly) and click the **AI Reply** button.
+2. The extension will automatically detect the compose window and show the **AI Reply** button
+3.  ![image](https://github.com/user-attachments/assets/5e2a09c1-df1e-4925-a741-fe1414a3d705)
+
+3. click the **AI Reply** button.
+![image](https://github.com/user-attachments/assets/cb82db94-5fd7-4d2c-949e-ce1132162a17)
+
 4. The generated response will be inserted into the compose window.
+![image](https://github.com/user-attachments/assets/e1066338-130e-4628-b603-f252198e3e24)
+
 
 ## Technologies Used
 
